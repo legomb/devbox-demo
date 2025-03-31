@@ -14,13 +14,7 @@ Portable, Isolated Dev Environment running Python.
 curl -fsSL https://get.jetify.com/devbox | bash
 ```
 
-2. Initialize devbox:
-
-```sh
-devbox init
-```
-
-3. Start a new shell that has your packages and tools installed:
+2. Start a new shell that has your packages and tools installed:
 
 ```sh
 devbox shell
