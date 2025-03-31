@@ -1,11 +1,12 @@
 {
     "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.0/.schema/devbox.schema.json",
     "packages": [
-      "python@3.13"
+      "python@3.13",
+      "cowsay"
     ],
     "shell": {
       "init_hook": [
-        "echo 'Welcome to devbox!' > /dev/null"
+        "cowsay 'Welcome to devbox!'"
       ],
       "scripts": {
         "test": [
