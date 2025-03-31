@@ -1,5 +1,7 @@
 # Devbox demo
 
+[![Built with Devbox](https://www.jetify.com/img/devbox/shield_moon.svg)](https://www.jetify.com/devbox/docs/contributor-quickstart/)
+
 Basic [devbox](https://www.jetify.com/devbox) demo.
 
 Portable, Isolated Dev Environment running Python.
