@@ -19,3 +19,9 @@ curl -fsSL https://get.jetify.com/devbox | bash
 ```sh
 devbox shell
 ```
+
+## Direnv support
+
+Added as per the [docs](https://www.jetify.com/docs/devbox/quickstart/#use-devbox-with-your-ide):
+
+> Direnv Integration: Devbox can integrate with direnv to automatically activate your shell and packages when you navigate to your project.
