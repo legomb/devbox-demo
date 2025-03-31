@@ -17,3 +17,9 @@ curl -fsSL https://get.jetify.com/devbox | bash
 ```sh
 devbox init
 ```
+
+3. Start a new shell that has your packages and tools installed:
+
+```sh
+devbox shell
+```
