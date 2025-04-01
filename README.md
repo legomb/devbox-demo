@@ -1,6 +1,7 @@
 # Devbox demo
 
 [![Built with Devbox](https://www.jetify.com/img/devbox/shield_moon.svg)](https://www.jetify.com/devbox/docs/contributor-quickstart/)
+![build workflow](https://github.com/legomb/devbox-demo/actions/workflows/build.yaml/badge.svg)
 
 Basic [devbox](https://www.jetify.com/devbox) demo.
 
