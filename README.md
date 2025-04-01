@@ -5,7 +5,9 @@
 
 Basic [devbox](https://www.jetify.com/devbox) demo.
 
-Portable, Isolated Dev Environment running Python.
+Portable, isolated development environment. This particular example runs Python and uv.
+
+Includes usage example in Github Actions CI.
 
 ## Usage
 
